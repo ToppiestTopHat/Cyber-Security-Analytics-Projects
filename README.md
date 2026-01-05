@@ -1,2 +1,2 @@
-# Cyber-Security-Analytics-Projects
-These were some of my noteworthy works I did within Mohawk College's Cyber Security Analytics graduate certificate program
+# Cyber-Security--Projects
+These were some of my noteworthy works related to my cyber security graduate certificate program
